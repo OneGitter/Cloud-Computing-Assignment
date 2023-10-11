@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cloud-Computing-Assignment/static/css/main.ca57846c.css",
+    "main.js": "/Cloud-Computing-Assignment/static/js/main.79e1c8ab.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Cloud-Computing-Assignment/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Cloud-Computing-Assignment/index.html",
+    "main.ca57846c.css.map": "/Cloud-Computing-Assignment/static/css/main.ca57846c.css.map",
+    "main.79e1c8ab.js.map": "/Cloud-Computing-Assignment/static/js/main.79e1c8ab.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Cloud-Computing-Assignment/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca57846c.css",
+    "static/js/main.79e1c8ab.js"
+  ]
+}
